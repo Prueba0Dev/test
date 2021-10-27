@@ -2,3 +2,4 @@ Nacimiento Morty dd/mm/aaaa
 Morty va a la primaria
 Morty sale con Mónica
 Morty viaja en el tiempo al momento donde sale con Mónica
+Morty del futuro evita que Morty del pasado se vaya de viaje, y por tanto, termine su relación con Mónica
